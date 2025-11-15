@@ -1,0 +1,17 @@
+game_status|MENU_SLOTY
+slot0_status|EMPTY
+slot1_status|EMPTY
+slot2_status|EMPTY
+slot3_status|empty
+slot0_music_volume|700
+slot1_music_volume|700
+slot2_music_volume|700
+slot3_music_volume|700
+slot0_difficulty|NORMAL
+slot1_difficulty|NORMAL
+slot2_difficulty|NORMAL
+slot3_difficulty|normal
+slot0_intro|NIEODWIEDZONY
+slot1_intro|NIEODWIEDZONY
+slot2_intro|NIEODWIEDZONY
+slot3_intro|nieodwiedzony

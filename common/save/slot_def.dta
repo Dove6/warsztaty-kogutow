@@ -1,0 +1,24 @@
+-----------------------------|Global Info
+scene_code|cint
+scene_name|arcade
+scene_info|
+inventory|
+notes|X1110000000000000000000000000000000X
+notes_strona|1
+-----------------------------|Arcade Info
+arcade_scene_name|podworko
+arcade_scroll_pos_x|0
+arcade_scroll_pos_y|0
+arcade_leader_pos_x|6
+arcade_leader_pos_y|10
+-----------------------------|CS Info
+cs_scene_name|00a_intro
+cs_do_mu_status|nieodwiedzony
+cs_outro_status|nieodwiedzony
+-----------------------------|Arcade - podworko
+podworko_status|nieodwiedzony
+kurniki_status|nieodwiedzony
+kogut_stage|0
+wazny_przedmiot|0
+wazniejszy_przedmiot|0
+najwazniejszy_przedmiot|0

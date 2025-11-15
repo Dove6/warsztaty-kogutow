@@ -1,0 +1,43 @@
+ANN
+
+author=Piotr Maciejewski
+
+Event=latarnik
+
+	Frame=obj2_0.png
+		name=latarnik1
+
+	Frame=obj2_2.png
+		name=latarnik2
+
+
+Event=zapalacz
+
+	Frame=obj2_1.png
+		name=pixel
+		position_x=-1000
+		position_y=-1000
+
+	Frame=obj2_3.png
+		name=zapalarka
+
+
+
+image=obj2_0.png
+	name=latarnik1
+	position_x=236
+	position_y=227
+
+image=obj2_1.png
+	name=pixel
+
+image=obj2_2.png
+	name=latarnik2
+	position_x=236
+	position_y=227
+
+image=obj2_3.png
+	name=zapalarka
+	position_x=260
+	position_y=263
+

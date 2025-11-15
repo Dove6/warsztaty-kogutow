@@ -1,0 +1,78 @@
+ANN
+
+author=Piotr Maciejewski
+
+Event=plansza1
+
+	Frame=paths_0.png
+		name=Layer_2
+
+	Frame=paths_2.png
+		name=Layer_3
+
+
+Event=plansza2
+
+	Frame=paths_1.png
+		name=Layer_6
+
+	Frame=paths_3.png
+		name=Layer_2
+
+
+Event=plansza3
+
+	Frame=paths_0.png
+		name=Layer_2
+
+	Frame=paths_4.png
+		name=Layer_1
+
+
+Event=plansza4
+
+	Frame=paths_0.png
+		name=Layer_2
+
+	Frame=paths_5.png
+		name=Layer_1
+
+
+Event=plansza5
+
+	Frame=paths_1.png
+		name=Layer_6
+
+	Frame=paths_6.png
+		name=Layer_1
+
+
+
+image=paths_0.png
+	name=Layer_2
+
+image=paths_1.png
+	name=Layer_6
+
+image=paths_2.png
+	name=Layer_3
+	position_y=0
+
+image=paths_3.png
+	name=Layer_2
+	position_x=360
+	position_y=520
+
+image=paths_4.png
+	name=Layer_1
+	position_x=150
+	position_y=550
+
+image=paths_5.png
+	name=Layer_1
+	position_y=400
+
+image=paths_6.png
+	name=Layer_1
+	position_x=120
+	position_y=240
