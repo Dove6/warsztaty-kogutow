@@ -1,0 +1,16 @@
+*           binary
+
+# Not related to Reksio
+*.md        text=auto
+*.bat       text eol=crlf diff=batch
+
+# Reksio scripts - if they are encoded, normalization can corrupt them
+*.cnv       binary diff=cnv
+*.class     binary diff=cnv
+*.def       binary diff=cnv
+
+# Normalization safe
+*.dta       text eol=crlf diff=csv
+*.ini       text eol=crlf diff=ini
+*.seq       text eol=crlf diff=cnv
+*.txt       text eol=crlf
