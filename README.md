@@ -55,9 +55,7 @@ Poniżej krok po kroku opisane są zadania wykonywane na warsztatach tak, by mo�
 
 ![Plansza Podwórka](.github/task1.png)
 
-<audio controls>
-  <source src="https://github.com/Dove6/warsztaty-kogutow/raw/refs/heads/main/wavs/kog1.wav" type="audio/wav">
-</audio>
+https://github.com/user-attachments/assets/1ec6cfac-d28f-4e10-9e52-72cc0641b144
 
 #### 1.1. Umieszczenie przedmiotu na planszy
 
@@ -98,9 +96,7 @@ SKRETTARGETACTIONSEL:ONBRUTALCHANGED^ANNKOGUT={ /
 
 ![Plansza Kurników](.github/task2.png)
 
-<audio controls>
-  <source src="https://github.com/Dove6/warsztaty-kogutow/raw/refs/heads/main/wavs/kre5.wav" type="audio/wav">
-</audio>
+https://github.com/user-attachments/assets/09db6ea9-e7c9-4310-bc20-57bbd293882a
 
 #### 2.1. Modyfikacja maski chodu
 
@@ -124,9 +120,7 @@ Usunąć PATHS_IDLE.ARR - gra cache'uje maski.
 
 ![Pusta plansza z Kornelkiem](.github/task3.png)
 
-<audio controls>
-  <source src="https://github.com/Dove6/warsztaty-kogutow/raw/refs/heads/main/wavs/kog7.wav" type="audio/wav">
-</audio>
+https://github.com/user-attachments/assets/87fe6550-98c5-44af-b584-0bd87b218645
 
 #### 3.1. Dodanie nowej planszy
 
