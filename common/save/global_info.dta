@@ -1,5 +1,5 @@
-game_status|MENU_SLOTY
-slot0_status|EMPTY
+game_status|GAME
+slot0_status|FULL
 slot1_status|EMPTY
 slot2_status|EMPTY
 slot3_status|empty
